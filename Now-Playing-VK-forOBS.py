@@ -1,4 +1,4 @@
-import vk_api # $ pip install vk_api
+import vk_api # $ pip3 install vk_api
 
 from time import sleep
 
